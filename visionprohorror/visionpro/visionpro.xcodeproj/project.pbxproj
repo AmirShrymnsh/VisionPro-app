@@ -1,0 +1,674 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		290470202C0808CF00DDA43E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2904701F2C0808CF00DDA43E /* AppDelegate.swift */; };
+		290470222C0808CF00DDA43E /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290470212C0808CF00DDA43E /* GameViewController.swift */; };
+		290470252C0808CF00DDA43E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290470232C0808CF00DDA43E /* Main.storyboard */; };
+		290470282C0808CF00DDA43E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290470262C0808CF00DDA43E /* LaunchScreen.storyboard */; };
+		290470302C0808CF00DDA43E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2904702F2C0808CF00DDA43E /* AppDelegate.swift */; };
+		290470322C0808CF00DDA43E /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290470312C0808CF00DDA43E /* GameViewController.swift */; };
+		290470352C0808CF00DDA43E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290470332C0808CF00DDA43E /* Main.storyboard */; };
+		290470382C0808CF00DDA43E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290470362C0808CF00DDA43E /* LaunchScreen.storyboard */; };
+		290470402C0808CF00DDA43E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2904703F2C0808CF00DDA43E /* AppDelegate.swift */; };
+		290470422C0808CF00DDA43E /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290470412C0808CF00DDA43E /* GameViewController.swift */; };
+		290470452C0808CF00DDA43E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290470432C0808CF00DDA43E /* Main.storyboard */; };
+		290470472C0808CF00DDA43E /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 290470142C0808CD00DDA43E /* Actions.sks */; };
+		290470482C0808CF00DDA43E /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 290470142C0808CD00DDA43E /* Actions.sks */; };
+		290470492C0808CF00DDA43E /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 290470142C0808CD00DDA43E /* Actions.sks */; };
+		2904704A2C0808CF00DDA43E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 290470152C0808CD00DDA43E /* GameScene.sks */; };
+		2904704B2C0808CF00DDA43E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 290470152C0808CD00DDA43E /* GameScene.sks */; };
+		2904704C2C0808CF00DDA43E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 290470152C0808CD00DDA43E /* GameScene.sks */; };
+		2904704D2C0808CF00DDA43E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290470162C0808CD00DDA43E /* GameScene.swift */; };
+		2904704E2C0808CF00DDA43E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290470162C0808CD00DDA43E /* GameScene.swift */; };
+		2904704F2C0808CF00DDA43E /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290470162C0808CD00DDA43E /* GameScene.swift */; };
+		290470502C0808CF00DDA43E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290470172C0808CF00DDA43E /* Assets.xcassets */; };
+		290470512C0808CF00DDA43E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290470172C0808CF00DDA43E /* Assets.xcassets */; };
+		290470522C0808CF00DDA43E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290470172C0808CF00DDA43E /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		290470142C0808CD00DDA43E /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		290470152C0808CD00DDA43E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		290470162C0808CD00DDA43E /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		290470172C0808CF00DDA43E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2904701C2C0808CF00DDA43E /* visionpro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = visionpro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2904701F2C0808CF00DDA43E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		290470212C0808CF00DDA43E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		290470242C0808CF00DDA43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		290470272C0808CF00DDA43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2904702D2C0808CF00DDA43E /* visionpro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = visionpro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2904702F2C0808CF00DDA43E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		290470312C0808CF00DDA43E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		290470342C0808CF00DDA43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		290470372C0808CF00DDA43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2904703D2C0808CF00DDA43E /* visionpro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = visionpro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2904703F2C0808CF00DDA43E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		290470412C0808CF00DDA43E /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		290470442C0808CF00DDA43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		290470462C0808CF00DDA43E /* visionpro_macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = visionpro_macOS.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		290470192C0808CF00DDA43E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2904702A2C0808CF00DDA43E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2904703A2C0808CF00DDA43E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2904700E2C0808CC00DDA43E = {
+			isa = PBXGroup;
+			children = (
+				290470132C0808CC00DDA43E /* visionpro Shared */,
+				2904701E2C0808CF00DDA43E /* visionpro iOS */,
+				2904702E2C0808CF00DDA43E /* visionpro tvOS */,
+				2904703E2C0808CF00DDA43E /* visionpro macOS */,
+				2904701D2C0808CF00DDA43E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		290470132C0808CC00DDA43E /* visionpro Shared */ = {
+			isa = PBXGroup;
+			children = (
+				290470142C0808CD00DDA43E /* Actions.sks */,
+				290470152C0808CD00DDA43E /* GameScene.sks */,
+				290470162C0808CD00DDA43E /* GameScene.swift */,
+				290470172C0808CF00DDA43E /* Assets.xcassets */,
+			);
+			path = "visionpro Shared";
+			sourceTree = "<group>";
+		};
+		2904701D2C0808CF00DDA43E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2904701C2C0808CF00DDA43E /* visionpro.app */,
+				2904702D2C0808CF00DDA43E /* visionpro.app */,
+				2904703D2C0808CF00DDA43E /* visionpro.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2904701E2C0808CF00DDA43E /* visionpro iOS */ = {
+			isa = PBXGroup;
+			children = (
+				2904701F2C0808CF00DDA43E /* AppDelegate.swift */,
+				290470212C0808CF00DDA43E /* GameViewController.swift */,
+				290470232C0808CF00DDA43E /* Main.storyboard */,
+				290470262C0808CF00DDA43E /* LaunchScreen.storyboard */,
+			);
+			path = "visionpro iOS";
+			sourceTree = "<group>";
+		};
+		2904702E2C0808CF00DDA43E /* visionpro tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				2904702F2C0808CF00DDA43E /* AppDelegate.swift */,
+				290470312C0808CF00DDA43E /* GameViewController.swift */,
+				290470332C0808CF00DDA43E /* Main.storyboard */,
+				290470362C0808CF00DDA43E /* LaunchScreen.storyboard */,
+			);
+			path = "visionpro tvOS";
+			sourceTree = "<group>";
+		};
+		2904703E2C0808CF00DDA43E /* visionpro macOS */ = {
+			isa = PBXGroup;
+			children = (
+				2904703F2C0808CF00DDA43E /* AppDelegate.swift */,
+				290470412C0808CF00DDA43E /* GameViewController.swift */,
+				290470432C0808CF00DDA43E /* Main.storyboard */,
+				290470462C0808CF00DDA43E /* visionpro_macOS.entitlements */,
+			);
+			path = "visionpro macOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2904701B2C0808CF00DDA43E /* visionpro iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 290470552C0808CF00DDA43E /* Build configuration list for PBXNativeTarget "visionpro iOS" */;
+			buildPhases = (
+				290470182C0808CF00DDA43E /* Sources */,
+				290470192C0808CF00DDA43E /* Frameworks */,
+				2904701A2C0808CF00DDA43E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "visionpro iOS";
+			productName = "visionpro iOS";
+			productReference = 2904701C2C0808CF00DDA43E /* visionpro.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2904702C2C0808CF00DDA43E /* visionpro tvOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 290470582C0808CF00DDA43E /* Build configuration list for PBXNativeTarget "visionpro tvOS" */;
+			buildPhases = (
+				290470292C0808CF00DDA43E /* Sources */,
+				2904702A2C0808CF00DDA43E /* Frameworks */,
+				2904702B2C0808CF00DDA43E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "visionpro tvOS";
+			productName = "visionpro tvOS";
+			productReference = 2904702D2C0808CF00DDA43E /* visionpro.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2904703C2C0808CF00DDA43E /* visionpro macOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2904705B2C0808CF00DDA43E /* Build configuration list for PBXNativeTarget "visionpro macOS" */;
+			buildPhases = (
+				290470392C0808CF00DDA43E /* Sources */,
+				2904703A2C0808CF00DDA43E /* Frameworks */,
+				2904703B2C0808CF00DDA43E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "visionpro macOS";
+			productName = "visionpro macOS";
+			productReference = 2904703D2C0808CF00DDA43E /* visionpro.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2904700F2C0808CC00DDA43E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					2904701B2C0808CF00DDA43E = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					2904702C2C0808CF00DDA43E = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					2904703C2C0808CF00DDA43E = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 290470122C0808CC00DDA43E /* Build configuration list for PBXProject "visionpro" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2904700E2C0808CC00DDA43E;
+			productRefGroup = 2904701D2C0808CF00DDA43E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2904701B2C0808CF00DDA43E /* visionpro iOS */,
+				2904702C2C0808CF00DDA43E /* visionpro tvOS */,
+				2904703C2C0808CF00DDA43E /* visionpro macOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2904701A2C0808CF00DDA43E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2904704A2C0808CF00DDA43E /* GameScene.sks in Resources */,
+				290470252C0808CF00DDA43E /* Main.storyboard in Resources */,
+				290470472C0808CF00DDA43E /* Actions.sks in Resources */,
+				290470282C0808CF00DDA43E /* LaunchScreen.storyboard in Resources */,
+				290470502C0808CF00DDA43E /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2904702B2C0808CF00DDA43E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2904704B2C0808CF00DDA43E /* GameScene.sks in Resources */,
+				290470352C0808CF00DDA43E /* Main.storyboard in Resources */,
+				290470482C0808CF00DDA43E /* Actions.sks in Resources */,
+				290470382C0808CF00DDA43E /* LaunchScreen.storyboard in Resources */,
+				290470512C0808CF00DDA43E /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2904703B2C0808CF00DDA43E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				290470452C0808CF00DDA43E /* Main.storyboard in Resources */,
+				2904704C2C0808CF00DDA43E /* GameScene.sks in Resources */,
+				290470522C0808CF00DDA43E /* Assets.xcassets in Resources */,
+				290470492C0808CF00DDA43E /* Actions.sks in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		290470182C0808CF00DDA43E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2904704D2C0808CF00DDA43E /* GameScene.swift in Sources */,
+				290470222C0808CF00DDA43E /* GameViewController.swift in Sources */,
+				290470202C0808CF00DDA43E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		290470292C0808CF00DDA43E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2904704E2C0808CF00DDA43E /* GameScene.swift in Sources */,
+				290470322C0808CF00DDA43E /* GameViewController.swift in Sources */,
+				290470302C0808CF00DDA43E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		290470392C0808CF00DDA43E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2904704F2C0808CF00DDA43E /* GameScene.swift in Sources */,
+				290470422C0808CF00DDA43E /* GameViewController.swift in Sources */,
+				290470402C0808CF00DDA43E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		290470232C0808CF00DDA43E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				290470242C0808CF00DDA43E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		290470262C0808CF00DDA43E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				290470272C0808CF00DDA43E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		290470332C0808CF00DDA43E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				290470342C0808CF00DDA43E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		290470362C0808CF00DDA43E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				290470372C0808CF00DDA43E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		290470432C0808CF00DDA43E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				290470442C0808CF00DDA43E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		290470532C0808CF00DDA43E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		290470542C0808CF00DDA43E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		290470562C0808CF00DDA43E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.visionpro;
+				PRODUCT_NAME = visionpro;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		290470572C0808CF00DDA43E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.visionpro;
+				PRODUCT_NAME = visionpro;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		290470592C0808CF00DDA43E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "tvOS App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.visionpro;
+				PRODUCT_NAME = visionpro;
+				SDKROOT = appletvos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 16.4;
+			};
+			name = Debug;
+		};
+		2904705A2C0808CF00DDA43E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "tvOS App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.visionpro;
+				PRODUCT_NAME = visionpro;
+				SDKROOT = appletvos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 16.4;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2904705C2C0808CF00DDA43E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "visionpro macOS/visionpro_macOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.visionpro;
+				PRODUCT_NAME = visionpro;
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		2904705D2C0808CF00DDA43E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "visionpro macOS/visionpro_macOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = a.visionpro;
+				PRODUCT_NAME = visionpro;
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		290470122C0808CC00DDA43E /* Build configuration list for PBXProject "visionpro" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				290470532C0808CF00DDA43E /* Debug */,
+				290470542C0808CF00DDA43E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		290470552C0808CF00DDA43E /* Build configuration list for PBXNativeTarget "visionpro iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				290470562C0808CF00DDA43E /* Debug */,
+				290470572C0808CF00DDA43E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		290470582C0808CF00DDA43E /* Build configuration list for PBXNativeTarget "visionpro tvOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				290470592C0808CF00DDA43E /* Debug */,
+				2904705A2C0808CF00DDA43E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2904705B2C0808CF00DDA43E /* Build configuration list for PBXNativeTarget "visionpro macOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2904705C2C0808CF00DDA43E /* Debug */,
+				2904705D2C0808CF00DDA43E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2904700F2C0808CC00DDA43E /* Project object */;
+}
